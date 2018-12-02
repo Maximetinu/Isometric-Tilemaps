@@ -18,4 +18,4 @@ Now, to place a sprite in the scene use its Z position as its grounded height in
 
 ---
 
-Next thing I wonder how to implement properly is how to achieve physics and movement above this isometric plane.
+Next thing I wonder is how to implement physics and movement above the isometric plane properly.
