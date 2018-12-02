@@ -6,6 +6,9 @@
 
 ![](https://i.gyazo.com/9a2e7bd7015e6177ddce4dda5534bf2a.png)
 
+
+![](https://i.gyazo.com/9d068b25209d70ab9ac11863c394bce1.png)
+
 2. Then, I've created a GameObject 2D Isometric Grid Z as Y and adjusted its Cell Size (X and Y) to fit my sprite, in my case x:1.25 y:0.625. Also, I've set z:1 to make it work in different Z heights. I've set the same values to the Palette Prefab itself.
 
 3. I've set its Tilemap Renderer Mode to "Individual" instead of "Chunk", as the last one isn't support in scene view (touble is that it's less performant).
