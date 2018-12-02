@@ -18,6 +18,8 @@
 
 Now, to place a sprite in the scene use its Z position as its grounded height in the tilemap.
 
+![](https://i.gyazo.com/7d1917e6dde1908fad9a37330ddc3d08.png)
+
 ---
 
 Next thing I wonder is how to implement physics and movement above the isometric plane properly.
